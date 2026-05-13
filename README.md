@@ -1,6 +1,6 @@
 # Hi there 👋 ![](https://komarev.com/ghpvc/?username=mr-ma-peng&color=blue&style=flat-square)
 
-![Mr. Ma Peng's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ma-peng&hide=html,css,C%2B%2B)
+![Mr. Ma Peng's Top Languages](https://readme-stats-github.vercel.app/api/top-langs/?username=mr-ma-peng&hide=html,css,C%2B%2B)
 
 💻 Full-Stack Developer / 📷 Weekend Photographer
 
